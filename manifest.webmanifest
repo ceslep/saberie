@@ -3,7 +3,7 @@
   "background_color": "#5d5650",
   "display": "fullscreen",
   "scope": "/",
-  "start_url": "/index.html",
+  "start_url": "/saber/index.html",
   "name": "Proyecto Pruebas Saber Instituto Guática",
   "short_name": "SaberApp",
   "description": "Reforzar competencias de pruebas saber",
